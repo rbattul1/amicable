@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Amicable</label>
+	</settings>
+	<users>
+		<user>
+			<path>Amicable.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Amicable.jcp</path>
+		</project>
+	</projects>
+</workspace>
